@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @nicolai-nichitin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <html>
-<head>
+  <head>
   </head>
   <body>
-<img src="https://www.codewars.com/users/nicolai-nichitin/badges/large">
+    <img src="https://www.codewars.com/users/nicolai-nichitin/badges/large">
   </body>
-  </html>
+</html>
