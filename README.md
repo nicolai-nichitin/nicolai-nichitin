@@ -4,4 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-https://www.codewars.com/users/nicolai-nichitin/badges/large
+<html>
+<head>
+  </head>
+  <body>
+<img src="https://www.codewars.com/users/nicolai-nichitin/badges/large">
+  </body>
+  </html>
